@@ -4,12 +4,8 @@
 Welcome and thanks for stopping by, I am **Hrvoje** from **Zagreb**.
 After getting my degree of Associate in Applied Science in Hotel and Resort Management from Rochester Institute of Technology, I have built a successful career in Sales and other departments in major Zagreb hotels. Now the time has come for a major career turn and entering the world of IT. I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development.
 
-_I was working as a Sales Manager in Hospitality Industry and I have a degree of Associate in Applied Science 
-in Hotel and Resort Management from Rochester Institute of Technology. I am making a career change into Frontend development.
-I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development._
 
-
-I love building cool, interesting websites or tools for fun and for learning using Javascript or React, CSS and HTML.
+I love building cool, interesting websites or tools for fun and for learning, using Javascript or React, CSS and HTML.
 - 🔭 Pursuing Frontend developer job position.
 - 🌱 Currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
