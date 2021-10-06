@@ -26,8 +26,8 @@ Nowadays I play chess for a bit of relaxing, and as brain gym but back in the da
 This is my 4-step framework to solve any problem:
 
 <ol>
-    <li>Make sure to understand the problem 100% and ask the right questions to get a clear pic of the problem./li>
-    <li>Divide and conquer. Break a big problem into smaller sub-problems./li>
+    <li>Make sure to understand the problem 100% and ask the right questions to get a clear pic of the problem.
+    <li>Divide and conquer. Break a big problem into smaller sub-problems.
     <li>Do as much research as I have to do.</li>
     <li>For bigger problems, write pseudo-code before writing actual code.</li>
   </ol>
