@@ -2,14 +2,16 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
 Welcome and thanks for stopping by, I am **Hrvoje** from **Zagreb**.
-I was working as a Sales Manager in Hospitality Indutry and I have a degree of Associate in Applied Science 
+After getting my degree of Associate in Applied Science in Hotel and Resort Management from Rochester Institute of Technology, I have built a successful career in Sales and other departments in major Zagreb hotels. Now the time has come for a major career turn and entering the world of IT. I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development.
+
+_I was working as a Sales Manager in Hospitality Industry and I have a degree of Associate in Applied Science 
 in Hotel and Resort Management from Rochester Institute of Technology. I am making a career change into Frontend development.
-I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development.
+I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development._
 
 
-I usually build cool, interesting websites or tools for fun and for learning using Javascript or React, CSS and HTML.
-- 🔭 At this point I am pursuing Frontend developer job position.
-- 🌱 I’m currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+I love building cool, interesting websites or tools for fun and for learning using Javascript or React, CSS and HTML.
+- 🔭 Pursuing Frontend developer job position.
+- 🌱 Currently learning <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -22,10 +24,18 @@ I usually build cool, interesting websites or tools for fun and for learning usi
   <a href="https://github.com/Hvukov"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
 </summary>
 
-Little More About Me
-I am very positive and open minded person. I love sports and I practice pretty much every day. Running is my great passion and my best ideas come to me while I am running.
-It also keeps me very healthy and my mind sharp.
-I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm excellent at Team Building and collaboration. 
+                                                         More About Me
+I am a very positive and open minded person. My coworkers find me reliable and pleasant to be around. My daily routine includes sports, exercise and fine meals. Running is my great passion that keeps me healthy and my mind sharp. Best ideas come to me while I am running. 
+Nowadays I play chess for a bit of relaxing, and as brain gym but back in the days I used to be a captain of a chess club in croatian league. I am excellent at logic and a great problem solver.
+This is my 4-step framework to solve any problem:
+
+<ol>
+    <li>Make sure to understand the problem 100% and ask the right questions to get a clear pic of the problem./li>
+    <li>Divide and conquer. Break a big problem into smaller sub-problems./li>
+    <li>Do as much research as I have to do.</li>
+    <li>For bigger problems, write pseudo-code before writing actual code.</li>
+  </ol>
+I love meeting new people and learning new things, so please feel free to say hello and share a story with me. 
 
 
 
