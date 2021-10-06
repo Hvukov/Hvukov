@@ -2,7 +2,7 @@
 <!-- You can edit this image in paint and host the image on https://sm.ms/ -->
 
 Welcome and thanks for stopping by, I am **Hrvoje** from **Zagreb**.
-After getting my degree of Associate in Applied Science in Hotel and Resort Management from Rochester Institute of Technology, I have built a successful career in Sales and other departments in major Zagreb hotels. Now the time has come for a major career turn and entering the world of IT. I have finished Algebra University Frontend course (https://www.algebra.hr/en/) and I am completely passionate about frontend development.
+After getting my degree of Associate in Applied Science in Hotel and Resort Management from Rochester Institute of Technology, I have built a successful career in Sales and other departments in major Zagreb hotels. Now the time has come for a major career turn and entering the world of IT. I have finished Algebra University Frontend Program (https://www.algebra.hr/en/) and I am completely passionate about frontend development.
 
 
 I love building cool, interesting websites or tools for fun and for learning, using Javascript or React, CSS and HTML.
